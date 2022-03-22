@@ -9,7 +9,7 @@
   
   inputs.src-selenimum-v0_1_3.flake = false;
   inputs.src-selenimum-v0_1_3.owner = "myamyu";
-  inputs.src-selenimum-v0_1_3.ref   = "refs/tags/v0.1.3";
+  inputs.src-selenimum-v0_1_3.ref   = "v0_1_3";
   inputs.src-selenimum-v0_1_3.repo  = "selenimum";
   inputs.src-selenimum-v0_1_3.type  = "github";
   
