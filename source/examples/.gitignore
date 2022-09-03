@@ -1,5 +1,0 @@
-bin/
-logs/*
-!logs/.gitkeep
-outputs/*
-!outputs/.gitkeep
